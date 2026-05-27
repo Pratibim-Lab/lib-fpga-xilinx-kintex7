@@ -1,0 +1,17 @@
+{
+  "id": "FPGA_Xilinx_Kintex7/XC7K70T-FBG676:XC7K70T-FBG676",
+  "name": "XC7K70T-FBG676",
+  "library": "FPGA_Xilinx_Kintex7",
+  "file": "FPGA_Xilinx_Kintex7.kicad_symdir/XC7K70T-FBG676.kicad_sym",
+  "description": "Kintex 7 T 70 XC7K70T-FBG676",
+  "datasheet": "",
+  "keywords": "FPGA",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-fpga-xilinx-kintex7@master/parts/XC7K70T-FBG676/",
+  "part_path": "parts/XC7K70T-FBG676",
+  "symbol_file": "parts/XC7K70T-FBG676/XC7K70T-FBG676.kicad_sym",
+  "source_library": "FPGA_Xilinx_Kintex7.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:11.401Z"
+}
